@@ -1,5 +1,6 @@
 # legend
 aim at providing instant messaging (also with facetime etc.) for enterprises
+
 #Requirements
 * 1 on 1 chats
 * Group chats
@@ -10,6 +11,7 @@ aim at providing instant messaging (also with facetime etc.) for enterprises
 * Sharing media via messages
 * Message notification management
 * Facetime
+
 #Goals
 * Scalable
 * Optimized for mobile
